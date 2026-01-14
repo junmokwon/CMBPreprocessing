@@ -1,7 +1,13 @@
 <h2 align="center">Identifying Optimal nnU-Net Configuration for Cerebral Microbleed Segmentation</h2>
 
 <p align="center">
-  <b>Under Review</b>
+  <b>Junmo Kwon<sup>1</sup>, Sang Won Seo<sup>2</sup>, Hwan-ho Cho<sup>3</sup>, Hyunjin Park<sup>1</sup></b>
+</p>
+
+<p align="center">
+  <sup>1</sup>Department of Electrical and Computer Engineering, Sungkyunkwan University, Suwon 16419, South Korea<br>
+  <sup>2</sup>Department of Neurology, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul 06351, South Korea<br>
+  <sup>3</sup>Department of Electronics Engineering, Incheon National University, Incheon 22012, South Korea<br>
 </p>
 
 # Setting Up nnU-Net
